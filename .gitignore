@@ -1,0 +1,48 @@
+tmp/
+screenshots/
+hierarchy_*.xml
+appium-script/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+env/
+ENV/
+.idea/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+title.txt
+content.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test data
+test_*.py
